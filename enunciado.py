@@ -1,4 +1,4 @@
-import re #Para poder verificar la estructura de la fecha de nacimiento
+import re #Para poder verificar la estructura de la fecha de nacimiento y otras propiedades de cadena, expresiones regulares
 
 #Funciones
 
